@@ -8,7 +8,7 @@ import { InputGroup } from 'react-bootstrap';
 import { Form, ListGroupItem } from "react-bootstrap";
 import { Toast } from 'react-bootstrap';
 
-function geschenk() {
+function Geschenk() {
 
     const router = useRouter();
 
@@ -128,4 +128,5 @@ function geschenk() {
     )
 }
 
-export default geschenk
+
+export default Geschenk
