@@ -1,6 +1,6 @@
 import React from 'react'
 
-function rätsel() {
+function Raetsel() {
     return (
         <div className='text-center'>
             <h4>Nun hier steht dein letztes Rätsel bevor meine Prinzessin!</h4>
@@ -15,4 +15,5 @@ function rätsel() {
     )
 }
 
-export default rätsel
+
+export default Raetsel
